@@ -4,6 +4,7 @@
 /* libraries */
 #include <stdlib.h>
 #include <stddef.h>
+#include <stdio.h>
 
 /* struct double linked list */
 
